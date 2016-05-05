@@ -3,7 +3,7 @@
 
 Each folder contains python scripts for each solution. 
 
-# Sulotions
+# Solutions
 
 - [ ] 1-10
 - [ ] 11-20
