@@ -1,2 +1,12 @@
-# Euler
-Project Euler results and comments
+# Project Euler
+-----
+
+Each folder contains python scripts for each solution. 
+
+# Sulotions
+
+- [ ] 1-10
+- [ ] 11-20
+- [ ] 21-30
+
+## To do...
