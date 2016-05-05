@@ -1,8 +1,8 @@
 # Largest palindrome product
 # ------------------------------------------------- #
-# Check if number is dividable by fac, if it is divide
-# by fac, else increment fac, until fac is not less than
-# number.
+# Run through all numbers from 999 to 100. Check if
+# any of them are the same backwards. If they are
+# set p equal to the number.
 # ------------------------------------------------- #
 
 p=0
